@@ -1,3 +1,4 @@
+# This Python script is meant to automatically back up any specify directory every day and remove backups older than 7 days
 import os
 import tarfile
 import time
